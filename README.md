@@ -1,3 +1,5 @@
+![Tests](https://github.com/Sushant-Luitel/learn-cicd-typescript-starter/actions/workflows/ci.yml/badge.svg)
+
 # learn-cicd-typescript-starter (Notely)
 
 This repo contains the typescript starter code for the "Notely" application for the "Learn CICD" course on [Boot.dev](https://boot.dev).
@@ -24,4 +26,3 @@ _This starts the server in non-database mode._ It will serve a simple webpage at
 You do _not_ need to set up a database or any interactivity on the webpage yet. Instructions for that will come later in the course!
 
 Sushant Luitel's version of Boot.dev's Notely app.
-![Tests](https://github.com/Sushant-Luitel/learn-cicd-typescript-starter/actions/workflows/ci.yml/badge.svg)
